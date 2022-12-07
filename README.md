@@ -22,5 +22,5 @@ Como rodar o projeto
 
 Para rodar o projeto, utilize o comando a baixo:
 ```
-python main.py
+python caixa.py
 ```
